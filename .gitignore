@@ -1,0 +1,16 @@
+# Ignorar configuraciones locales y archivos generados
+.vs/
+.vsconfig
+*.csproj
+*.sln
+
+# Ignorar carpetas generadas automáticamente por Unity
+Library/
+Logs/
+Temp/
+UserSettings/
+obj/
+
+# Evitar incluir configuraciones de sistema operativo
+.DS_Store
+Thumbs.db
