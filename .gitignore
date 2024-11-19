@@ -14,3 +14,7 @@ obj/
 # Evitar incluir configuraciones de sistema operativo
 .DS_Store
 Thumbs.db
+
+# Ignorar dependencias y configuraciones
+Packages/
+ProjectSettings/
